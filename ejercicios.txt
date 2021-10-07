@@ -1,0 +1,53 @@
+Cada vez que respiramos se introducen en nuestros pulmones unos 660 cm3 de aire; respiramos aproximadamente 20 veces por minuto. ¿Cuántos litros de aire introducimos en un día? (Recuerden 1 litro = 1000 cm3)
+
+660 cm3
+20v/m
+
+20*60= 1200v/h;
+24*1200= 28800v/d
+ .66 lt
+.66*28800=19008
+
+
+660 
+24*60*20=28800
+28800*660
+
+Aire en mis pulmones = 19008000
+
+
+
+
+
+PROBLEMA 1
+Redacción del problema...
+..... Redacción del problema...
+
+      DATOS
+          - 660 cm cúbicos a la vez
+          - Respiramos 20 veces por minuto
+          - Hay X minutos por día
+          - Respiramos X veces por día...
+          - Introducimos X cm3 de aire por día...
+
+      RESULTADO
+             Introducimos X litros de aire en un día
+
+
+En un cajero automático se necesita un programa que distribuya el efectivo de manera que se dé el menor cambio posible. En la máquina hay disponibles billetes de 200, 100, 50 y 20, además de monedas de 10, 5 y 1 peso. Por ejemplo si queremos retirar 305 pesos, el cajero nos debe de regresar: 1 billete de 200, 1 billete de 100 y una moneda de 5 pesos. Declaren una variable que se llame “retirar” que contendrá el monto a retirar, pueden definir algún valor que ustedes quieran, pero cuando yo lo revise cambie este valor para ver que realmente funciona.
+PROBLEMA 3...
+Redacción del problema...
+..... Redacción del problema...
+
+      DATOS
+          - Cantidad a retirar: X
+
+      RESULTADO
+        Para retirar la cantidad X usted recibiría su dinero de esta manera:
+        X billetes de 200
+        X billetes de 100
+        …
+        X monedas de 1 peso
+
+
+https://docs.oracle.com/en/java/
